@@ -1,5 +1,10 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="excludedRules">
+      <set>
+        <option value="python:S139" />
+      </set>
+    </option>
     <option name="includedRules">
       <set>
         <option value="python:LineLength" />
@@ -11,7 +16,6 @@
         <option value="python:S1131" />
         <option value="python:S1142" />
         <option value="python:S134" />
-        <option value="python:S139" />
         <option value="python:S1578" />
         <option value="python:S1717" />
         <option value="python:S1720" />
