@@ -3,6 +3,8 @@
     <option name="excludedRules">
       <set>
         <option value="python:S139" />
+        <option value="python:S1717" />
+        <option value="python:S1720" />
         <option value="python:S1721" />
       </set>
     </option>
@@ -18,8 +20,6 @@
         <option value="python:S1142" />
         <option value="python:S134" />
         <option value="python:S1578" />
-        <option value="python:S1717" />
-        <option value="python:S1720" />
         <option value="python:S1722" />
         <option value="python:S2325" />
       </set>
