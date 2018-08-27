@@ -1,6 +1,7 @@
 <application>
-  <component name="GithubSettings">
-    <option name="LOGIN" value="SimLeek" />
-    <option name="AUTH_TYPE" value="BASIC" />
+  <component name="GithubAccounts">
+    <account id="784b42a1-2f83-4c2c-ac97-780b19cbb295" name="SimLeek">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
