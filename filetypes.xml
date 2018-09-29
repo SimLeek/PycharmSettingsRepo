@@ -3,14 +3,15 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="cl" type="C++" />
-      <mapping pattern="subtree_push" type="PLAIN_TEXT" />
-      <mapping pattern="rtp" type="PLAIN_TEXT" />
-      <mapping pattern="Onshape Designs" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="blob shader" type="PLAIN_TEXT" />
-      <mapping pattern="vc_orient_group" type="PLAIN_TEXT" />
-      <mapping pattern="v1_debug" type="PLAIN_TEXT" />
+      <mapping pattern="Onshape Designs" type="PLAIN_TEXT" />
       <mapping pattern="shopping" type="PLAIN_TEXT" />
+      <mapping pattern="blob shader" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="v1_debug" type="PLAIN_TEXT" />
+      <mapping pattern="rtp" type="PLAIN_TEXT" />
+      <mapping pattern="vc_orient_group" type="PLAIN_TEXT" />
+      <mapping pattern="subtree_push" type="PLAIN_TEXT" />
       <mapping ext="rpa" type="PLAIN_TEXT" />
       <mapping ext="dae" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
