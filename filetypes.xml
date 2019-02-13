@@ -12,6 +12,7 @@
       <mapping pattern="rtp" type="PLAIN_TEXT" />
       <mapping pattern="vc_orient_group" type="PLAIN_TEXT" />
       <mapping pattern="subtree_push" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="rpa" type="PLAIN_TEXT" />
       <mapping ext="dae" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
